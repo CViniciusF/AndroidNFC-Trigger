@@ -1,0 +1,47 @@
+<resources>
+    <string name="action_settings">Configurações</string>
+    <string name="app_name">Tarefas NFC - Carlos Vinicius</string>
+    <string name="selected_actions">Ações Selecionadas:</string>
+    <string name="actions">Ações</string>
+    <string name="write_tag">Gravar Tarefas</string>
+    <string name="dialog_waiting_tag">Esperando Etiqueta...</string>
+    <string name="toast_write_success">Tarefas Gravadas!</string>
+    <string name="toast_write_fail">Falha na Escrita :(</string>
+    <string name="button_write_tag">Gravar na Etiqueta</string>
+    <string name="label_no_nfc">NFC não disponível</string>
+    <string name="toast_write_successful">Sua Anotação foi Gravada</string>
+    <string name="dialog_tap_on_tag">Posicione uma Etiqueta</string>
+    <string name="label_smile_sad">:(</string>
+    <string name="toast_invalid_note">Anotação Inválida</string>
+    <string name="label_note">Escreva a Anotação</string>
+    <string-array name="actions">
+        <item>Nenhuma</item>
+        <item>Ativar Wi-Fi</item>
+        <item>Desativar Wi-Fi</item>
+        <item>Ativar Bluetooth</item>
+        <item>Desativar Bluetooth</item>
+        <item>Ativar Rede (4G)</item>
+        <item>Desativar Rede (4G)</item>
+        <item>Ativar GPS</item>
+        <item>Desativar GPS</item>
+        <item>Modo Silêncioso</item>
+        <item>Ativar Sons</item>
+        <item>Somente Vibrar</item>
+    </string-array>
+    <string name="title_activity_login">Faça Login ou Cadastre-se</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuário</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Faça Login ou cadastre-se</string>
+    <string name="action_sign_in_short">Preencha os Campos</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
+
+
